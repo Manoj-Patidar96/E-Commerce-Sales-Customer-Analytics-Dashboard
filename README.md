@@ -23,4 +23,4 @@
  •	Actionable Decision Making: With interactive dropdown slicers, management can filter the data by a specific city (e.g., Sao Paulo) to    understand local payment preferences and launch customized region-specific campaigns.
  •	Inventory & Demand Forecasting: The Monthly Revenue Trend allows stakeholders to identify seasonal spikes, helping the operations         team stock up on inventory well before peak sales months.
  7. Screenshot
-    
+    https://github.com/Manoj-Patidar96/E-Commerce-Sales-Customer-Analytics-Dashboard/blob/main/E-commece%20Dashboard%20Screenshot.png
